@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/Hethongnhung/mini_weather_station/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "E:/Hethongnhung/mini_weather_station/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "E:/Hethongnhung/mini_weather_station/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "E:/Hethongnhung/mini_weather_station/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "E:/Hethongnhung/mini_weather_station/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "E:/Hethongnhung/mini_weather_station/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "E:/Hethongnhung/mini_weather_station/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "E:/Hethongnhung/mini_weather_station/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "E:/Hethongnhung/mini_weather_station/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "E:/Hethongnhung/mini_weather_station/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

@@ -1,0 +1,2 @@
+-march=rv32imc_zicsr_zifencei
+"-specs=E:/Hethongnhung/mini_weather_station/build/specs/picolibc.specs"
